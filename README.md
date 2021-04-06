@@ -5,6 +5,9 @@
 
 
 ### What am i currently studying?👨‍💻
-Digital innovation one bootcamp .NET
-JavaScript
+
+Digital innovation one bootcamp (.NET)
+
+WEB-FRONT-END
+
 Alura Imersão Dev (HTML,CSS,JS)
