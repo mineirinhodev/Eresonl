@@ -11,6 +11,4 @@
 
 •Digital innovation one bootcamp (.NET)
 
-•WEB-FRONT-END
-
-•Alura Imersão Dev (HTML,CSS,JS)
+•Alura C#
