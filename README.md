@@ -7,8 +7,3 @@
 🇧🇷  Born in BH-MG, Brazil  
 
 
-### What am i currently studying?👨‍💻
-
-•Digital innovation one bootcamp (.NET)
-
-•Alura C#
