@@ -5,5 +5,5 @@
 
 
 🇧🇷  Born in BH-MG, Brazil  
-
+studying Ulife for devs- Gama Academy
 
