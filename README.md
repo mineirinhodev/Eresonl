@@ -5,5 +5,5 @@
 
 
 🇧🇷  Born in BH-MG, Brazil  
-Studying Ulife for devs- Gama Academy
+Studying java Spring Boot
 
